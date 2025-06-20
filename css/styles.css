@@ -10796,3 +10796,9 @@ header.masthead .post-heading .meta a {
     font-size: 2.25rem;
   }
 }
+/* .masthead {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 500px;
+} */
